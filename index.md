@@ -25,7 +25,7 @@ My GitHub page is http://github.com/Bryancostco.
 
     https://github.com/cpsc-fall-2023/cpsc-120-lab-03-bryan-and-aaron/tree/main/part-1
 
-*Lab 8
+* Lab 8
 
     Lab 8 was a fun lab that gave me a chance to work with the catch function. the try and catch function is vital when it comes
     to testing and wanting to see if code can catch what humans will miss. The instructions were very helpful and the overall feeling 
